@@ -1,0 +1,330 @@
+{
+    "code": 0,
+    "data": {
+        "leaveBalanceHistoryModels": [
+            {
+                "leaveBalanceHistory": {
+                    "id": 219,
+                    "companyId": 82,
+                    "userId": 1180,
+                    "leaveTypeId": 952,
+                    "updateDate": 1605263603000,
+                    "beforeDays": 18,
+                    "afterDays": 19,
+                    "reason": null
+                },
+                "leaveType": {
+                    "id": 952,
+                    "companyId": 82,
+                    "officeId": 147,
+                    "name": "Annual",
+                    "basicAllowance": 18,
+                    "status": 1,
+                    "daysOfCarryOver": 0,
+                    "code": 1,
+                    "annualCycle": 1577804400000,
+                    "statusForEnable": 1,
+                    "leaveCycleBasis": "FISCAL_YEAR",
+                    "minimumTimeToRequest": "HALF_HOUR"
+                },
+                "officeName": null,
+                "timeUnitName": {
+                    "days": "days",
+                    "day": "day",
+                    "shortDays": "d",
+                    "hours": "hours",
+                    "hour": "hour",
+                    "shortHours": "h"
+                },
+                "beforeDays": {
+                    "days": 18,
+                    "hours": 0,
+                    "rawDays": 18
+                },
+                "afterDays": {
+                    "days": 19,
+                    "hours": 0,
+                    "rawDays": 19
+                },
+                "notCurrentOfficeFor": false
+            },
+            {
+                "leaveBalanceHistory": {
+                    "id": 220,
+                    "companyId": 82,
+                    "userId": 1180,
+                    "leaveTypeId": 952,
+                    "updateDate": 1605263673000,
+                    "beforeDays": 19,
+                    "afterDays": 21,
+                    "reason": null
+                },
+                "leaveType": {
+                    "id": 952,
+                    "companyId": 82,
+                    "officeId": 147,
+                    "name": "Annual",
+                    "basicAllowance": 18,
+                    "status": 1,
+                    "daysOfCarryOver": 0,
+                    "code": 1,
+                    "annualCycle": 1577804400000,
+                    "statusForEnable": 1,
+                    "leaveCycleBasis": "FISCAL_YEAR",
+                    "minimumTimeToRequest": "HALF_HOUR"
+                },
+                "officeName": null,
+                "timeUnitName": {
+                    "days": "days",
+                    "day": "day",
+                    "shortDays": "d",
+                    "hours": "hours",
+                    "hour": "hour",
+                    "shortHours": "h"
+                },
+                "beforeDays": {
+                    "days": 19,
+                    "hours": 0,
+                    "rawDays": 19
+                },
+                "afterDays": {
+                    "days": 21,
+                    "hours": 0,
+                    "rawDays": 21
+                },
+                "notCurrentOfficeFor": false
+            },
+            {
+                "leaveBalanceHistory": {
+                    "id": 247,
+                    "companyId": 82,
+                    "userId": 1180,
+                    "leaveTypeId": 953,
+                    "updateDate": 1605677927000,
+                    "beforeDays": 13,
+                    "afterDays": 5,
+                    "reason": null
+                },
+                "leaveType": {
+                    "id": 953,
+                    "companyId": 82,
+                    "officeId": 147,
+                    "name": "Sick",
+                    "basicAllowance": 14,
+                    "status": 1,
+                    "daysOfCarryOver": 0,
+                    "code": 2,
+                    "annualCycle": 1577804400000,
+                    "statusForEnable": 1,
+                    "leaveCycleBasis": "FISCAL_YEAR",
+                    "minimumTimeToRequest": "HALF_DAY"
+                },
+                "officeName": null,
+                "timeUnitName": {
+                    "days": "days",
+                    "day": "day",
+                    "shortDays": "d",
+                    "hours": "hours",
+                    "hour": "hour",
+                    "shortHours": "h"
+                },
+                "beforeDays": {
+                    "days": 13,
+                    "hours": 0,
+                    "rawDays": 13
+                },
+                "afterDays": {
+                    "days": 5,
+                    "hours": 0,
+                    "rawDays": 5
+                },
+                "notCurrentOfficeFor": false
+            },
+            {
+                "leaveBalanceHistory": {
+                    "id": 248,
+                    "companyId": 82,
+                    "userId": 1180,
+                    "leaveTypeId": 953,
+                    "updateDate": 1605677935000,
+                    "beforeDays": 5,
+                    "afterDays": 9,
+                    "reason": null
+                },
+                "leaveType": {
+                    "id": 953,
+                    "companyId": 82,
+                    "officeId": 147,
+                    "name": "Sick",
+                    "basicAllowance": 14,
+                    "status": 1,
+                    "daysOfCarryOver": 0,
+                    "code": 2,
+                    "annualCycle": 1577804400000,
+                    "statusForEnable": 1,
+                    "leaveCycleBasis": "FISCAL_YEAR",
+                    "minimumTimeToRequest": "HALF_DAY"
+                },
+                "officeName": null,
+                "timeUnitName": {
+                    "days": "days",
+                    "day": "day",
+                    "shortDays": "d",
+                    "hours": "hours",
+                    "hour": "hour",
+                    "shortHours": "h"
+                },
+                "beforeDays": {
+                    "days": 5,
+                    "hours": 0,
+                    "rawDays": 5
+                },
+                "afterDays": {
+                    "days": 9,
+                    "hours": 0,
+                    "rawDays": 9
+                },
+                "notCurrentOfficeFor": false
+            },
+            {
+                "leaveBalanceHistory": {
+                    "id": 249,
+                    "companyId": 82,
+                    "userId": 1180,
+                    "leaveTypeId": 957,
+                    "updateDate": 1605677942000,
+                    "beforeDays": 60,
+                    "afterDays": 61,
+                    "reason": null
+                },
+                "leaveType": {
+                    "id": 957,
+                    "companyId": 82,
+                    "officeId": 147,
+                    "name": "Hospitalisation",
+                    "basicAllowance": 60,
+                    "status": 1,
+                    "daysOfCarryOver": 0,
+                    "code": 3,
+                    "annualCycle": 1577804400000,
+                    "statusForEnable": 1,
+                    "leaveCycleBasis": "FISCAL_YEAR",
+                    "minimumTimeToRequest": "HALF_DAY"
+                },
+                "officeName": null,
+                "timeUnitName": {
+                    "days": "days",
+                    "day": "day",
+                    "shortDays": "d",
+                    "hours": "hours",
+                    "hour": "hour",
+                    "shortHours": "h"
+                },
+                "beforeDays": {
+                    "days": 60,
+                    "hours": 0,
+                    "rawDays": 60
+                },
+                "afterDays": {
+                    "days": 61,
+                    "hours": 0,
+                    "rawDays": 61
+                },
+                "notCurrentOfficeFor": false
+            },
+            {
+                "leaveBalanceHistory": {
+                    "id": 250,
+                    "companyId": 82,
+                    "userId": 1180,
+                    "leaveTypeId": 955,
+                    "updateDate": 1605677958000,
+                    "beforeDays": 14,
+                    "afterDays": 0,
+                    "reason": null
+                },
+                "leaveType": {
+                    "id": 955,
+                    "companyId": 82,
+                    "officeId": 147,
+                    "name": "Paternity",
+                    "basicAllowance": 14,
+                    "status": 1,
+                    "daysOfCarryOver": 0,
+                    "code": 5,
+                    "annualCycle": 1577804400000,
+                    "statusForEnable": 1,
+                    "leaveCycleBasis": "FISCAL_YEAR",
+                    "minimumTimeToRequest": "HALF_DAY"
+                },
+                "officeName": null,
+                "timeUnitName": {
+                    "days": "days",
+                    "day": "day",
+                    "shortDays": "d",
+                    "hours": "hours",
+                    "hour": "hour",
+                    "shortHours": "h"
+                },
+                "beforeDays": {
+                    "days": 14,
+                    "hours": 0,
+                    "rawDays": 14
+                },
+                "afterDays": {
+                    "days": 0,
+                    "hours": 0,
+                    "rawDays": 0
+                },
+                "notCurrentOfficeFor": false
+            },
+            {
+                "leaveBalanceHistory": {
+                    "id": 251,
+                    "companyId": 82,
+                    "userId": 1180,
+                    "leaveTypeId": 958,
+                    "updateDate": 1605677964000,
+                    "beforeDays": 0,
+                    "afterDays": 5,
+                    "reason": null
+                },
+                "leaveType": {
+                    "id": 958,
+                    "companyId": 82,
+                    "officeId": 147,
+                    "name": "Unpaid",
+                    "basicAllowance": 0,
+                    "status": 1,
+                    "daysOfCarryOver": 0,
+                    "code": 10,
+                    "annualCycle": 1577804400000,
+                    "statusForEnable": 1,
+                    "leaveCycleBasis": "FISCAL_YEAR",
+                    "minimumTimeToRequest": "HALF_DAY"
+                },
+                "officeName": null,
+                "timeUnitName": {
+                    "days": "days",
+                    "day": "day",
+                    "shortDays": "d",
+                    "hours": "hours",
+                    "hour": "hour",
+                    "shortHours": "h"
+                },
+                "beforeDays": {
+                    "days": 0,
+                    "hours": 0,
+                    "rawDays": 0
+                },
+                "afterDays": {
+                    "days": 5,
+                    "hours": 0,
+                    "rawDays": 5
+                },
+                "notCurrentOfficeFor": false
+            }
+        ],
+        "meta": {}
+    }
+}
